@@ -1,2 +1,2 @@
 # react
-React course by hitesh
+React course by hitesh and shrivats
